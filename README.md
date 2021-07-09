@@ -15,7 +15,7 @@ I work as a Machine Learning engineer and researcher. I have deep interest in th
 
 🥇 Bio
 
-I received the Bachelor and M.Sc. degree in Computer Science from the Federal University of Paraíba (Brazil), in 2013 and 2015 respectively. I collected my Ph.D from the Department of Electronics, Information and Bioengineering at [Politecnico di Milano](https://www.polimi.it/en/) (Italy) in 2019, where during my research I concentrated efforts on the design of smarter Physically Interactive Robot Games through the application of Artificial Intelligence and Probabilistic Machine Learning methods to support high quality Human-Robot interaction during play.
+I received the Bachelor and M.Sc. degree in Computer Science from the Federal University of Paraíba (Brazil), in 2013 and 2015 respectively. I collected my Ph.D from the [Department of Electronics, Information and Bioengineering](https://www.deib.polimi.it/eng/home-page) at [Politecnico di Milano](https://www.polimi.it/en/) (Italy) in 2019, where during [my research](https://github.com/ewerlopes/phd_robogame) I concentrated efforts on the design of smarter Physically Interactive Robot Games through the application of Artificial Intelligence and Probabilistic Machine Learning methods to support high quality Human-Robot interaction during play.
 
 
 <!--
