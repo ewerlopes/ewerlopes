@@ -1,5 +1,5 @@
 ### Hi there 👋
-I work as a Machine Learning engineer and researcher. I have deep interest in the probabilistic perpective to machine learning and artificial intelligence, specially  in the identification of causal mechanisms via statistical quantities from data (aka Causal Inference). Other topics of interest include (but are not limited to):
+I work as a Machine Learning engineer and researcher. I have a deep interest in the probabilistic perpective to machine learning and artificial intelligence, especially  in the identification of causal mechanisms via statistical quantities from data (aka Causal Inference). Other topics of interest include (but are not limited to):
 
 - Learning Theory (bandits, game theory, statistical learning theory, etc.)
 - Optimization (convex and non-convex optimization, matrix/tensor methods, sparsity, etc.)
